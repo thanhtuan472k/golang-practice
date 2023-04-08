@@ -1,0 +1,7 @@
+vendor/
+.idea
+.env
+assets/
+uploads/
+*.DS_Store
+*.pem
